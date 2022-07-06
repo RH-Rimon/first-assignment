@@ -35,18 +35,18 @@ body {
 
 }
 
-.xyz {
+.taka {
     display: flex;
 
     padding-left: 250px;
 }
 
-.a {
+.taka1 {
     padding-left: 25px;
     background-color: antiquewhite;
 }
 
-#q {
+#background {
     background-color: red;
     padding-right: 25px;
 }
@@ -81,12 +81,27 @@ section {
 
 .fifth-part {
     text-align: center;
+    padding-left: 100px;
 
+}
+
+#color-first {
+    background-color: blanchedalmond;
+    padding-right: 25px;
+    margin-left: 20px;
+}
+
+#color-second {
+    background-color: aqua;
+}
+
+#color-third {
+    background-color: antiquewhite;
 }
 
 footer {
     text-align: center;
     color: white;
     background-color: black;
-    width: 4000%;
+
 }
